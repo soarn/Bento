@@ -90,13 +90,34 @@ const CONFIG = {
                 link: 'https://open.spotify.com',
             },
             {
-                name: 'Soundcloud',
-                link: 'https://soundcloud.com',
-            }
+                name: 'Classic',
+                link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            },
+            {
+                name: 'Oldies',
+                link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            },
+            {
+                name: 'Rock',
+                link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            },
         ],
         secondList: [{
-            name: 'Tetris',
-            link: 'https://tetr.io',
-        }],
+                name: 'Linkedin',
+                link: 'https://linkedin.com/',
+            },
+            {
+                name: 'Figma',
+                link: 'https://figma.com/',
+            },
+            {
+                name: 'Dribbble',
+                link: 'https://dribbble.com',
+            },
+            {
+                name: 'Telegram',
+                link: 'https://webk.telegram.org',
+            },
+        ],
     },
 };

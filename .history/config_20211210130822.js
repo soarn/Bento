@@ -95,8 +95,21 @@ const CONFIG = {
             }
         ],
         secondList: [{
-            name: 'Tetris',
-            link: 'https://tetr.io',
-        }],
+                name: 'TETR.IO',
+                link: 'https://tetr.io',
+            },
+            {
+                name: 'TETRIO.IO',
+                link: 'https://tetrio/',
+            },
+            {
+                name: 'Dribbble',
+                link: 'https://dribbble.com',
+            },
+            {
+                name: 'Telegram',
+                link: 'https://webk.telegram.org',
+            },
+        ],
     },
 };

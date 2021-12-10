@@ -23,14 +23,14 @@ const CONFIG = {
     greetingNight: 'Go to Sleep!',
 
     // Weather
-    weatherKey: '8686f37936ef48c6ed29420eeb163dae',
+    weatherKey: 'InsertYourAPIKeyHere123456',
     weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
-    weatherUnit: 'F', // 'F', 'C'
+    weatherUnit: 'C', // 'F', 'C'
     language: 'en', // More languages in https://openweathermap.org/current#multi
 
     trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-    defaultLatitude: '33.2654',
-    defaultLongitude: '112.426',
+    defaultLatitude: '37.775',
+    defaultLongitude: '-122.419',
 
     // ┌─┐┌─┐┬─┐┌┬┐┌─┐
     // │  ├─┤├┬┘ ││└─┐
@@ -47,25 +47,25 @@ const CONFIG = {
             id: '2',
             name: 'Mail',
             icon: 'mail',
-            link: 'https://mail.google.com/',
+            link: 'https://mail.protonmail.com/',
         },
         {
             id: '3',
+            name: 'Todoist',
+            icon: 'trello',
+            link: 'https://todoist.com',
+        },
+        {
+            id: '4',
             name: 'Calendar',
             icon: 'calendar',
             link: 'https://calendar.google.com/calendar/r',
         },
         {
-            id: '4',
-            name: 'Twitter',
-            icon: 'twitter',
-            link: 'https://twitter.com',
-        },
-        {
             id: '5',
-            name: 'Instagram',
-            icon: 'instagram',
-            link: 'https://instagram.com',
+            name: 'Reddit',
+            icon: 'glasses',
+            link: 'https://reddit.com',
         },
         {
             id: '6',
@@ -86,17 +86,38 @@ const CONFIG = {
     // Links
     lists: {
         firstList: [{
-                name: 'Spotify',
-                link: 'https://open.spotify.com',
+                name: 'Inspirational',
+                link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
             },
             {
-                name: 'Soundcloud',
-                link: 'https://soundcloud.com',
-            }
+                name: 'Classic',
+                link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            },
+            {
+                name: 'Oldies',
+                link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            },
+            {
+                name: 'Rock',
+                link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+            },
         ],
         secondList: [{
-            name: 'Tetris',
-            link: 'https://tetr.io',
-        }],
+                name: 'Linkedin',
+                link: 'https://linkedin.com/',
+            },
+            {
+                name: 'Figma',
+                link: 'https://figma.com/',
+            },
+            {
+                name: 'Dribbble',
+                link: 'https://dribbble.com',
+            },
+            {
+                name: 'Telegram',
+                link: 'https://webk.telegram.org',
+            },
+        ],
     },
 };

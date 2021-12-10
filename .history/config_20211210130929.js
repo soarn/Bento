@@ -95,7 +95,7 @@ const CONFIG = {
             }
         ],
         secondList: [{
-            name: 'Tetris',
+            name: 'TETR.IO',
             link: 'https://tetr.io',
         }],
     },
