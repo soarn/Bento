@@ -80,23 +80,31 @@ const CONFIG = {
     // ┴─┘┴└─┘ ┴ └─┘
 
     //Icons
-    firstListIcon: 'music',
+    firstListIcon: 'graduation-cap',
     secondListIcon: 'coffee',
 
     // Links
     lists: {
         firstList: [{
-                name: 'Spotify',
-                link: 'https://open.spotify.com',
+                name: 'Drive',
+                link: 'https://drive.google.com',
             },
             {
-                name: 'Soundcloud',
-                link: 'https://soundcloud.com',
+                name: 'Schoology',
+                link: 'https://tempeunion.schoology.com',
             }
         ],
         secondList: [{
-            name: 'Tetris',
-            link: 'https://tetr.io',
+		name: 'Spotify',
+		link: 'https://open.spotify.com',
+	    },
+	    {
+		name: 'Soundcloud',
+		link: 'https://soundcloud.com',
+	    },
+	    {
+        	name: 'Tetris',
+        	link: 'https://tetr.io',
         }],
     },
 };
