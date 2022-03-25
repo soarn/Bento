@@ -92,7 +92,11 @@ const CONFIG = {
             {
                 name: 'Schoology',
                 link: 'https://tempeunion.schoology.com',
-            }
+            },
+	    {
+		name: 'My ASU',
+		link: 'https://webapp4.asu.edu/myasu/student',
+	    }
         ],
         secondList: [{
 		name: 'Spotify',
