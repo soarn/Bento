@@ -90,13 +90,15 @@ const CONFIG = {
                 link: 'https://drive.google.com',
             },
             {
-                name: 'Schoology',
-                link: 'https://tempeunion.schoology.com',
+                name: 'Canvas',
+                link: 'https://asu.instructure.com/',
             },
 	    {
 		name: 'My ASU',
 		link: 'https://webapp4.asu.edu/myasu/student',
-	    }
+	    },
+		name: 'ClickUp',
+		link: 'https://app.clickup.com/37410587/v/l/13nnrv-124',
         ],
         secondList: [{
 		name: 'Spotify',
