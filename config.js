@@ -87,30 +87,32 @@ const CONFIG = {
     lists: {
         firstList: [{
                 name: 'Drive',
-                link: 'https://drive.google.com',
+                link: 'ext+container:name=ASU&url=https://drive.google.com',
             },
             {
                 name: 'Canvas',
-                link: 'https://asu.instructure.com/',
+                link: 'ext+container:name=ASU&url=https://asu.instructure.com&pinned=true',
             },
-	    {
-		name: 'My ASU',
-		link: 'https://webapp4.asu.edu/myasu/student',
-	    },
-		name: 'ClickUp',
-		link: 'https://app.clickup.com/37410587/v/l/13nnrv-124',
+            {
+                name: 'My ASU',
+                link: 'ext+container:name=ASU&url=https://webapp4.asu.edu/myasu/student&pinned=true',
+            }, {
+                name: 'ClickUp',
+                link: 'clickup://37410587/v/li/175423133',
+            }
         ],
         secondList: [{
-		name: 'Spotify',
-		link: 'https://open.spotify.com',
-	    },
-	    {
-		name: 'Soundcloud',
-		link: 'https://soundcloud.com',
-	    },
-	    {
-        	name: 'Tetris',
-        	link: 'https://tetr.io',
-        }],
+                name: 'Spotify',
+                link: 'https://open.spotify.com',
+            },
+            {
+                name: 'SoundCloud',
+                link: 'https://soundcloud.com',
+            },
+            {
+                name: 'Tetris',
+                link: 'https://tetr.io',
+            }
+        ],
     },
 };
