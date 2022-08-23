@@ -86,33 +86,30 @@ const CONFIG = {
     // Links
     lists: {
         firstList: [{
-                name: 'Drive',
-                link: 'ext+container:name=ASU&url=https://drive.google.com',
-            },
-            {
-                name: 'Canvas',
-                link: 'ext+container:name=ASU&url=https://asu.instructure.com&pinned=true',
-            },
-            {
-                name: 'My ASU',
-                link: 'ext+container:name=ASU&url=https://webapp4.asu.edu/myasu/student&pinned=true',
-            }, {
-                name: 'ClickUp',
-                link: 'clickup://37410587/v/li/175423133',
-            }
-        ],
+            name: 'My ASU',
+            link: 'ext+container:name=ASU&url=https://webapp4.asu.edu/myasu/student&pinned=true',
+        }, {
+            name: 'ClickUp',
+            link: 'clickup://37410587/v/li/175423133',
+        }, {
+            name: 'Canvas',
+            link: 'ext+container:name=ASU&url=https://asu.instructure.com&pinned=true',
+        }, {
+            name: 'Drive',
+            link: 'ext+container:name=ASU&url=https://drive.google.com',
+        }, {
+            name: 'WebAssign',
+            link: 'ext+container:name=ASU&url=https://www.webassign.net/v4cgi/student.pl?a=20220823192223soarn@asu.edu@asu',
+        }],
         secondList: [{
-                name: 'Spotify',
-                link: 'https://open.spotify.com',
-            },
-            {
-                name: 'SoundCloud',
-                link: 'https://soundcloud.com',
-            },
-            {
-                name: 'Tetris',
-                link: 'https://tetr.io',
-            }
-        ],
+            name: 'Spotify',
+            link: 'https://open.spotify.com',
+        }, {
+            name: 'SoundCloud',
+            link: 'https://soundcloud.com',
+        }, {
+            name: 'Tetris',
+            link: 'https://tetr.io',
+        }],
     },
 };
