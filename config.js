@@ -110,6 +110,9 @@ const CONFIG = {
         }, {
             name: 'Tetris',
             link: 'https://tetr.io',
-        }],
+        }, {
+	    name: 'Zero Trust',
+	    link: 'https://dash.teams.cloudflare.com/',
+	}],
     },
 };
