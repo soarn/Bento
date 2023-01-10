@@ -95,11 +95,11 @@ const CONFIG = {
             name: 'Canvas',
             link: 'ext+container:name=ASU&url=https://asu.instructure.com&pinned=true',
         }, {
-            name: 'Drive',
-            link: 'ext+container:name=ASU&url=https://drive.google.com',
+            name: 'OneDrive',
+            link: 'ext+container:name=ASU&url=https://arizonastateu-my.sharepoint.com',
         }, {
-            name: 'WebAssign',
-            link: 'ext+container:name=ASU&url=https://www.webassign.net/v4cgi/student.pl?a=20220823192223soarn@asu.edu@asu',
+            name: 'Azure',
+            link: 'ext+container:name=ASU&url=https://portal.azure.com/#home',
         }],
         secondList: [{
             name: 'Spotify',
