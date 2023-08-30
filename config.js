@@ -100,7 +100,10 @@ const CONFIG = {
         }, {
             name: 'Azure',
             link: 'ext+container:name=ASU&url=https://portal.azure.com/#home',
-        }],
+        }, {
+	    name: 'Cengage',
+	    link: 'ext+container:name=ASU&url=https://account.cengage.com/login',
+	}],
         secondList: [{
             name: 'Spotify',
             link: 'https://open.spotify.com',
