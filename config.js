@@ -89,8 +89,8 @@ const CONFIG = {
             name: 'My ASU',
             link: 'ext+container:name=ASU&url=https://webapp4.asu.edu/myasu/student&pinned=true',
         }, {
-            name: 'ClickUp',
-            link: 'clickup://37410587/v/li/175423133',
+	    name: 'Cengage',
+	    link: 'ext+container:name=ASU&url=https://account.cengage.com/login',
         }, {
             name: 'Canvas',
             link: 'ext+container:name=ASU&url=https://asu.instructure.com&pinned=true',
@@ -100,10 +100,7 @@ const CONFIG = {
         }, {
             name: 'Azure',
             link: 'ext+container:name=ASU&url=https://portal.azure.com/#home',
-        }, {
-	    name: 'Cengage',
-	    link: 'ext+container:name=ASU&url=https://account.cengage.com/login',
-	}],
+        }],
         secondList: [{
             name: 'Spotify',
             link: 'https://open.spotify.com',
