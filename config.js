@@ -105,8 +105,8 @@ const CONFIG = {
             name: 'Spotify',
             link: 'https://open.spotify.com',
         }, {
-            name: 'SoundCloud',
-            link: 'https://soundcloud.com',
+            name: 'Raindrop',
+            link: 'https://app.raindrop.io',
         }, {
             name: 'Tetris',
             link: 'https://tetr.io',
