@@ -113,6 +113,9 @@ const CONFIG = {
         }, {
 	    name: 'Zero Trust',
 	    link: 'https://dash.teams.cloudflare.com/',
-	}],
+	}, {
+	    name: 'Nation States',
+	    link: 'https://www.nationstates.net/nation=hirmfaxi'
+	],}
     },
 };
