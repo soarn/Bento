@@ -89,8 +89,8 @@ const CONFIG = {
             name: 'My ASU',
             link: 'ext+container:name=ASU&url=https://webapp4.asu.edu/myasu/student&pinned=true',
         }, {
-	    name: 'Cengage',
-	    link: 'ext+container:name=ASU&url=https://account.cengage.com/login',
+	        name: 'Cengage',
+	        link: 'ext+container:name=ASU&url=https://account.cengage.com/login',
         }, {
             name: 'Canvas',
             link: 'ext+container:name=ASU&url=https://asu.instructure.com&pinned=true',
@@ -111,11 +111,11 @@ const CONFIG = {
             name: 'Tetris',
             link: 'https://tetr.io',
         }, {
-	    name: 'Zero Trust',
-	    link: 'https://dash.teams.cloudflare.com/',
-	}, {
-	    name: 'Nation States',
-	    link: 'https://www.nationstates.net/nation=hirmfaxi'
-	],}
+	        name: 'Zero Trust',
+	        link: 'https://dash.teams.cloudflare.com/',
+	    }, {
+	        name: 'Nation States',
+	        link: 'https://www.nationstates.net/nation=hirmfaxi',
+        },]
     },
 };
